@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=FFDA44&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+choi's+GitHub!👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=FFDA44&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+choi's+profile!👋)](https://git.io/typing-svg)
 <div align="left">
 <!-- ------- -->
 
