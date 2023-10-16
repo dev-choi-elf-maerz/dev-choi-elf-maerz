@@ -1,14 +1,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=FFDA44&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+choi's+GitHub!👋)](https://git.io/typing-svg)
- 
 <div align="left">
-
--------
+<!-- ------- -->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdev-choi-elf-maerz%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![choi's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-choi-elf-maerz&show_icons=true&theme=transparent)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-choi-elf-maerz&langs_count=8) 
 <br>
 
