@@ -26,6 +26,7 @@
     <p><strong>Backend</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> 
+        <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=nextdotjs&logoColor=white">
     </div>
     <!-- Database -->
     <p><strong>Database</strong></p>
