@@ -9,7 +9,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-choi-elf-maerz&langs_count=8) 
 <br>
 
-## 🔨 Once I've used 🔨
+## 🛠 Tech Stack 🛠
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
       <!-- Frontend -->
     <p><strong>Frontend</strong></p>
@@ -36,6 +36,7 @@
         <img src="https://img.shields.io/badge/mariadb-003545?style=flat-square&logo=mariadb&logoColor=white">
         <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white">
         <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white">
+        <img src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white"> 
     </div>
     <!-- Server -->
     <p><strong>Server</strong></p>
@@ -71,7 +72,8 @@
     <!-- Others -->
     <p><strong>Others</strong></p>
     <div>
-      ...
+        <img src="https://img.shields.io/badge/markdown-000000?style=flat-square&logo=markdown&logoColor=white">
+        <img src="https://img.shields.io/badge/matter.js-4B5562?style=flat-square&logo=matterdotjs&logoColor=white">   
        <!-- <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
         <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white">
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> -->
