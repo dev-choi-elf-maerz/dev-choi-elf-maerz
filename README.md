@@ -18,9 +18,10 @@
         <!--<img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> -->
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"> 
         <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"> 
-        <img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white">
-        <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white">
-        <img src="https://img.shields.io/badge/nextdotjs-3484D2?style=flat-square&logo=nextdotjs&logoColor=white">
+        <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white">
+        <img src="https://img.shields.io/badge/react.jz-61DAFB?style=flat-square&logo=react&logoColor=white">
+        <img src="https://img.shields.io/badge/next.js-3484D2?style=flat-square&logo=nextdotjs&logoColor=white">
+        <img src="https://img.shields.io/badge/vite-646CFF?style=flat-square&logo=vite&logoColor=white">
     </div>
     <!-- Backend -->
     <p><strong>Backend</strong></p>
