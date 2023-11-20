@@ -81,7 +81,7 @@
 </div><br>
 </div>
 
-## 📞 Contact 📞
+## 💬 Contact 💬
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:tigmuci@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"> 
@@ -97,7 +97,20 @@
     </a> -->
 </div><br>
 
-
+<!--
+## ⚡Api 
+<div style="display:flex; flex-direction:row;">
+https://www.hostinger.kr <br/>
+https://fonts.google.com <br/>
+https://fontawesome.com <br/>
+https://cdnjs.com <br/>
+https://newsapi.org <br/>
+https://getbootstrap.com <br/>
+https://openweathermap.org <br/>
+https://goqr.me <br/>
+https://platform.openai.com <br/>
+</div><br>
+-->
 <!--
 **dev-choi-elf-maerz/dev-choi-elf-maerz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
